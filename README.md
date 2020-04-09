@@ -1,0 +1,1 @@
+Run server: rails s -b $IP
